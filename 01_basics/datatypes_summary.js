@@ -2,3 +2,8 @@
 
 //Primitive data types -- 7 types -- strings, numbers, boolean, null, undefined, symbol, bigint
 // non-primitive or reference type -- arrays, objects, functions, 
+
+
+//+++++++++++++++++++++++++++++++++++++
+
+//Memory -- stack( primitive) heap ( reference)
